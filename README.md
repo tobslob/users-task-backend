@@ -19,6 +19,10 @@
  
  * [Author](#author)
 
+ ## Architectural Diagram
+
+ ![alt Achitural Diagram](architectural-diagram.png?raw=true)
+
 ## Getting Started
 
 ### Installation
