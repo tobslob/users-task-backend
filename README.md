@@ -25,7 +25,7 @@
 
 ## Architectural Diagram
 
- ![alt Achitural Diagram](architectural-diagram.png?raw=true)
+ ![alt Achitural Diagram](architectural--diagram.png?raw=true)
 
 ## Getting Started
 
