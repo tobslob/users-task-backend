@@ -9,17 +9,21 @@
 > [tasks service](https://task--serv.herokuapp.com/).
 
 ## Table of Content
+ * [Architectural Diagram](#architectural-diagram)
+
+ * [Getting Started](#getting-started)
+
  * [Getting Started](#getting-started)
  
  * [Installation](#installation)
  
  * [Built With](#built-with)
-
-* [API Documentation](#documentation)
+ 
+ * [API Documentation](#documentation)
  
  * [Author](#author)
 
- ## Architectural Diagram
+## Architectural Diagram
 
  ![alt Achitural Diagram](architectural-diagram.png?raw=true)
 
