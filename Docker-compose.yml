@@ -1,0 +1,19 @@
+version: "3"
+services:
+  task:
+    container_name: task_service
+    restart: always
+    build: 
+      dockerfile: Dockerfile
+      context: ./tasks
+    tty: true
+    restart: always
+
+  user:
+    container_name: user_service
+    restart: always
+    build: 
+      dockerfile: Dockerfile
+      context: ./users
+    tty: true
+    restart: always
